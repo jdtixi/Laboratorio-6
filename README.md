@@ -52,12 +52,12 @@ Así calculamos el error para el simulador Proteus:
 
 **Preguntas**
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 ___________
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 __________
-¿En qué valor está posicionada la perilla TIME/DIV? 
+¿En qué valor está posicionada la perilla TIME/DIV? **
 
 En el simulador de proteus esta en inicialmente en 1mS por división, lo que se puede cambiar posteriormente
 
@@ -67,7 +67,7 @@ Por otro lado en el de dcaclab es de 0.1mS por division
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/156053157_3686345881461914_7373058252212107232_n.jpg?_nc_cat=101&ccb=3&_nc_sid=730e14&_nc_eui2=AeEf_Y9fbMt9xy5T8yhbSYzdfka9fyKt3jJ-Rr1_Iq3eMjGT97xazeRFdR7UaEr8nP0TFX2XsB6UCL11W1cZYSXg&_nc_ohc=lih8wtfDJFEAX8GyjO4&_nc_ht=scontent.fuio16-1.fna&oh=b6e6ba6a400493b288232435e0506cff&oe=6064DF6E)
 
-7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+**7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
 La amplitud en Proteus es de 6.88 V con un periodo de 400μS, entonces la frecuencia es 2.5k Hz.  
 
@@ -80,18 +80,18 @@ Para dcaclab tenemos:
 Nos resulta en amplitud de 6.86 V
 Y en el periodo de 0.4mS, como se aprecia del oscilograma en la figura.
 
-7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
+**7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.**
 
 f:  2.5 k (Hz)
 ω:  5k (rad/s)
 
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL:
+**7.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
 
 El voltaje de salida medido en RL es de 4.86 V este valor corresponde a un valor rms.
 Por tanto, el valor pico es de 6.873
 
-7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+**7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
 Comparando los valores obtenidos por las mediciones, no coinciden en valor numérico, ya que el uno es un valor pico, mientras que el otro es un valor rms, por tanto, si al valor pico le dividimos por raíz de dos, en consecuencia, obtendremos el valor rms que si coincide numéricamente con el valor obtenido en el multímetro.
 
 # 6.Descripcion de prerrequisitos y configuración
