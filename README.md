@@ -19,7 +19,7 @@
 
 # 3. Diagramas
 
-# 4.Lista de compoentes
+# 4.Lista de componentes
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/154795592_3686345748128594_7725191980283169288_n.jpg?_nc_cat=102&ccb=3&_nc_sid=730e14&_nc_eui2=AeGpwemvNgJPU8HKJsJx0-Rvkn7PeMDovpmSfs94wOi-meCrjDX1Ue1WCp2XRcsXelCaNIP0oxZZkxlsyPEBLA-F&_nc_ohc=4588QsXgoXcAX8_QyPH&_nc_ht=scontent.fuio16-1.fna&oh=56a749805a2fabbcf761ecf8a97008ce&oe=6061F722)
 
 # 5.Explicación
