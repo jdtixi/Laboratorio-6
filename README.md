@@ -182,7 +182,7 @@ Así calculamos el error para el simulador Proteus:
 ![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/156791859_264532335245831_5551748399211552141_n.jpg?_nc_cat=110&ccb=3&_nc_sid=730e14&_nc_ohc=32umEep-isoAX-iXnHt&_nc_ht=scontent.fuio4-1.fna&oh=51a3660d1ab676fe32aac02d18571da7&oe=60638A9C)
 
 **¿En qué valor está posicionada la perilla TIME/DIV? **
-50 u
+
 
 En el simulador de proteus esta en inicialmente en 1mS por división, lo que se puede cambiar posteriormente
 
