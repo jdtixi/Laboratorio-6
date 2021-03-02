@@ -142,3 +142,5 @@ Debemos hacer bien las conexiones y correr la simulación para poder medir las m
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/156586460_3686346108128558_2874852128721706678_n.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_eui2=AeEZjIiN-brm6Hx_cjkF54S_I7lvnKGTGjAjuW-coZMaMCcVVww6t4ZOn41ccJyfmtoxE5EeqrJvOMgV7nLETcfB&_nc_ohc=azHrYKuny7gAX81Am4M&_nc_ht=scontent.fuio16-1.fna&oh=02d2fef074aa84b59649cf87c31f135c&oe=606307D9)
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/154967530_3686346148128554_6217974534582375145_n.jpg?_nc_cat=111&ccb=3&_nc_sid=730e14&_nc_eui2=AeGe087FEex9QKWvnrwy68UwIWncEOR7GGkhadwQ5HsYacu27Ab8v5T96iNB25pH3qC_AfMzJn4NAEBXA7-4sMei&_nc_ohc=PyxRgdaHIhYAX9oW3gM&_nc_oc=AQnv2DOyGp8hv4B1czEas0iukdppNypQDGafHNhoyegblWQqg0luvwCgpT2Vt7-4mjQ&_nc_ht=scontent.fuio16-1.fna&oh=ece5f359393ac9a3f40f6569f42e3fa3&oe=60624FF1)
+
+![](https://www.areatecnologia.com/electricidad/imagenes/codigo-colores-resistencias.jpg)
