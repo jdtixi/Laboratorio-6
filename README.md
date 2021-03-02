@@ -92,10 +92,27 @@ Si la frecuencia de las ondas es diferente, estarán en fase cuando la fase ωt+
 
 
 
-
-  Valores Asociados a las Ondas Periódicas
+  Osciloscopio
   
-![](https://scontent.fuio2-1.fna.fbcdn.net/v/t1.0-9/155790524_264508925248172_7467165589222413367_n.jpg?_nc_cat=100&ccb=3&_nc_sid=730e14&_nc_ohc=ESOZQwyWjOQAX-pksMb&_nc_ht=scontent.fuio2-1.fna&oh=b9cbd5aa4b4bcbf1b254954dcf3fc476&oe=6064AE2C)
+  
+Un osciloscopio es un instrumento de medición para la electrónica. Representa una gráfica de amplitud en el eje vertical y tiempo en el eje horizontal. Es muy usado por estudiantes, diseñadores, ingenieros en el campo de la electrónica. Frecuentemente se complementa con un multímetro, una fuente de alimentación y un generador de funciones o arbitrario. Es muy usado en electrónica de señal, frecuentemente junto a un analizador de espectro. Presenta los valores de las señales eléctricas en forma de coordenadas en una pantalla, en la que normalmente el eje X (horizontal) representa tiempos y el eje Y (vertical) representa tensiones. La imagen así obtenida se denomina oscilograma. Suelen incluir otra entrada, llamada "eje Z" o "Cilindro de Wehnelt" que controla la luminosidad del haz, permitiendo resaltar o apagar algunos segmentos de la traza.
+Actualmente los osciloscopios analógicos están siendo desplazados en gran medida por los osciloscopios digitales, uno de los principales problemas a vencer era la velocidad de conversión, ya que se recomienda digitalizar una señal a una frecuencia 10 veces más de la que se requiere medir, esto es si tenemos una señal de 20MHz, debemos tener un equipo capaz de obtener datos a 200M muestras por segundo
+Los osciloscopios digitales también brindan ciertas ventajas en contra de los análogos:
+-	Medida automática de valores de pico, máximos y mínimos de señal. Verdadero valor eficaz.
+-	Medida de flancos de la señal y otros intervalos.
+-	Captura de transitorios.
+-	Cálculos avanzados, como la FFT para calcular el espectro de la señal. también sirve para medir señales de tensión.
+
+![](https://scontent.fuio2-1.fna.fbcdn.net/v/t1.0-9/154154884_260118452353886_300542770372390516_n.jpg?_nc_cat=101&ccb=3&_nc_sid=730e14&_nc_ohc=Oj0_igJ8wGoAX9a2mxX&_nc_ht=scontent.fuio2-1.fna&oh=1a4fd9a41ad7103b848ef17a926e30fd&oe=605C17C8)
+
+La pantalla del osciloscopio está dividida en escalas horizontal y vertical. El tiempo se muestra de izquierda a derecha en la escala horizontal. Mientras que, el voltaje se muestra empezando en cero al centro de la pantalla en la escala vertical, con valores positivos hacia arriba, y valores negativos hacia abajo.
+
+![](https://scontent.fuio2-1.fna.fbcdn.net/v/t1.0-9/154376192_260118445687220_1578826236337799049_n.jpg?_nc_cat=110&ccb=3&_nc_sid=730e14&_nc_ohc=wWcksbAf3S4AX-NaR8J&_nc_oc=AQnmkaVjOCQU2I-_IVCSi9kGoju2D_c-0DozHgw6EWt3PaOLMjqBBfkEISQfK_tzn-GThZqyHZAi_RJduJyVjcBi&_nc_ht=scontent.fuio2-1.fna&oh=9bca184ce683ea9372f92671ca724524&oe=6059BFE7)
+
+En un osciloscopio existen, básicamente, dos tipos de controles que son utilizados como reguladores que ajustan la señal de entrada y permiten, consecuentemente, medir en la pantalla y de esta manera se puede ver la forma de la señal medida por el osciloscopio, esto denominado en forma técnica se puede decir que el osciloscopio sirve para observar la señal que quiera medir.
+Para medir se lo puede comparar con el plano cartesiano.
+El primer control regula el eje X (horizontal) y aprecia fracciones de tiempo segundos, milisegundos, microsegundos, según la resolución del aparato. El segundo regula el eje Y (vertical) controlando la tensión de entrada en Voltios, milivoltios, microvoltios, dependiendo de la resolución del aparato.
+Estas regulaciones determinan el valor de la escala cuadricular que divide la pantalla, permitiendo saber cuánto representa cada cuadrado de ésta para, en consecuencia, conocer el valor de la señal a medir, tanto en tensión como en frecuencia, en realidad se mide el periodo de una onda de una señal, y luego se calcula la frecuencia.
 
 
 
