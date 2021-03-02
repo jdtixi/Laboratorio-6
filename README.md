@@ -167,11 +167,22 @@ Así calculamos el error para el simulador Proteus:
 **Preguntas**
 
 **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-___________
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__________
-¿En qué valor está posicionada la perilla TIME/DIV? **
+6,88 (Aproximando)
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/156135434_264532365245828_519239657449252138_n.jpg?_nc_cat=106&ccb=3&_nc_sid=730e14&_nc_ohc=O2GYd-JYR08AX96ZGJT&_nc_ht=scontent.fuio4-1.fna&oh=0c75d5c6390a4b1aa167edf4279177fc&oe=6063A771)
+
+**¿En qué valor está posicionada la perilla VOLTS/DIV?
+1.61 V 
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/156902700_264532311912500_7456604991665371945_n.jpg?_nc_cat=101&ccb=3&_nc_sid=730e14&_nc_ohc=s-cWbYLhtS0AX-qCnbB&_nc_ht=scontent.fuio4-1.fna&oh=29a7446c673563d9a1a8c22d59311791&oe=6065F253)
+
+**¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+8 divisiones 
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/156791859_264532335245831_5551748399211552141_n.jpg?_nc_cat=110&ccb=3&_nc_sid=730e14&_nc_ohc=32umEep-isoAX-iXnHt&_nc_ht=scontent.fuio4-1.fna&oh=51a3660d1ab676fe32aac02d18571da7&oe=60638A9C)
+
+**¿En qué valor está posicionada la perilla TIME/DIV? **
+50 u
 
 En el simulador de proteus esta en inicialmente en 1mS por división, lo que se puede cambiar posteriormente
 
@@ -187,7 +198,7 @@ La amplitud en Proteus es de 6.88 V con un periodo de 400μS, entonces la frecue
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/155222356_3686346024795233_5134870777610060376_o.jpg?_nc_cat=111&ccb=3&_nc_sid=730e14&_nc_eui2=AeF9mE_ueE6Heb2iZRo3YXuvM5LOwyqbjWozks7DKpuNas-DEKQBpk2wK7tgwRznaur3O8oWgJz_1CxZy62iKuxm&_nc_ohc=33jTGiHblzUAX-oLccE&_nc_ht=scontent.fuio16-1.fna&oh=96724a0c8a6457ad938ef1c8cb210fb4&oe=6063D6CA)
 
-Para calcular tenemos:
+Para dcaclab tenemos:
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/156154623_3686345981461904_4558840447245410630_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_eui2=AeF_oJiINJXj7SPTu1uVnw-iMssb9BToxLwyyxv0FOjEvDMpjgnqA_3DYpJaUnVtb5H7udk9TuMbTf7B6vOF2_Mw&_nc_ohc=zWxV-dGwcI8AX8f1qjf&_nc_ht=scontent.fuio16-1.fna&oh=ff5b3ad5754f723f471e2c764c4b55ac&oe=60630EF2)
 
