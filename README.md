@@ -26,7 +26,7 @@ Específicos
 
    - Investigar sobre las señales senoidales y su importancia en los circuitos eléctricos.
    - Comprender más sobre la representación de la onda senoidal.
-   - Mejorar el conocimiento sobre su forma gráfica como en su forma matemática.
+   - Mejorar el conocimiento sobre la forma gráfica como en su forma matemática de las ondas senoidales.
 
 # 2. Introducción 
 
