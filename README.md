@@ -92,6 +92,7 @@ El voltaje de salida medido en RL es de 4.86 V este valor corresponde a un valor
 Por tanto, el valor pico es de 6.873
 
 **7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
+
 Comparando los valores obtenidos por las mediciones, no coinciden en valor numérico, ya que el uno es un valor pico, mientras que el otro es un valor rms, por tanto, si al valor pico le dividimos por raíz de dos, en consecuencia, obtendremos el valor rms que si coincide numéricamente con el valor obtenido en el multímetro.
 
 # 6.Descripcion de prerrequisitos y configuración
@@ -121,7 +122,9 @@ Debemos hacer bien las conexiones y correr la simulación para poder medir las m
 # 7.Aportaciones o Recomendaciones
 
 •	Se recomienda tener muy claro las diferencias que hay entre valores pico, pico pico y rms, ya que de no ser así se obtendrían valores erróneos del voltaje, produciendo fallas en cualquier estudio que estemos llevando a cabo.
+
 •	En cada armado de circuitos tenemos que tener en cuenta las configuraciones de banda de los resistores, aunque en algunos simuladores no es necesario ajustar las resistencias por códigos de color, en la vida real trabajamos según esa configuración, algo muy importante a tomar en cuanta
+
 •	Realizar conexiones exactas para evitar contratiempos en nuestro trabajo.
 
 
