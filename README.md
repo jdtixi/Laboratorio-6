@@ -170,7 +170,7 @@ La amplitud en Proteus es de 6.88 V con un periodo de 400μS, entonces la frecue
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/155222356_3686346024795233_5134870777610060376_o.jpg?_nc_cat=111&ccb=3&_nc_sid=730e14&_nc_eui2=AeF9mE_ueE6Heb2iZRo3YXuvM5LOwyqbjWozks7DKpuNas-DEKQBpk2wK7tgwRznaur3O8oWgJz_1CxZy62iKuxm&_nc_ohc=33jTGiHblzUAX-oLccE&_nc_ht=scontent.fuio16-1.fna&oh=96724a0c8a6457ad938ef1c8cb210fb4&oe=6063D6CA)
 
-Para dcaclab tenemos:
+Para calcular tenemos:
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/156154623_3686345981461904_4558840447245410630_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_eui2=AeF_oJiINJXj7SPTu1uVnw-iMssb9BToxLwyyxv0FOjEvDMpjgnqA_3DYpJaUnVtb5H7udk9TuMbTf7B6vOF2_Mw&_nc_ohc=zWxV-dGwcI8AX8f1qjf&_nc_ht=scontent.fuio16-1.fna&oh=ff5b3ad5754f723f471e2c764c4b55ac&oe=60630EF2)
 
