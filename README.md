@@ -108,9 +108,10 @@ Voltaje es la diferencia de potencial eléctrico entre dos puntos de un circuito
 
 Entre las ventajas tecnológicas de la onda alterna senoidal tenemos:
 
-   • Se puede generar con facilidad.
+  • Se puede generar con facilidad.
   • Su transformación en otras ondas de diferente amplitud se consigue con facilidad mediante la utilización de transformadores.
   • Las operaciones para su utilización resultan igualmente sencilla por tratarse de la función seno.
+
 
 
 # 4.Lista de componentes
