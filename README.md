@@ -253,20 +253,15 @@ Debemos hacer bien las conexiones y correr la simulación para poder medir las m
 •	Realizar conexiones exactas para evitar contratiempos en nuestro trabajo.
 
 
-# 8.Concluiones 
+# 8.Concluiones
 
-•	Se ha tenido por resultados que las ondas senoidales nos dan una clara noción de cada una de las señales producidas por un generador de funciones, esto nos facilita mucho la obtención de resultados y mediciones en el oscilograma.
-•	Se comprobó no además que las ondas senoidales, en el osciloscopio, no entrega valores pico, por tanto, debemos transformar los valores a valores rms
-•	Además, pudimos mejorar nuestro conocimiento de las formas gráficas y las formas matemáticas, además del manejo del osciloscopio en los diferentes simuladores, y con esto obtenemos un buen acercamiento a la realidad
+- Se ha tenido por resultados que las ondas senoidales nos dan una clara noción de cada una de las señales producidas por un generador de funciones, esto nos facilita mucho la obtención de resultados y mediciones en el oscilograma.
 
-# 10.Bibliografia
+- Se comprobó no además que las ondas senoidales, en el osciloscopio, no entrega valores pico, por tanto, debemos transformar los valores a valores rms
 
-Alexander, S. M. (2006). Fundamento de Circuitos Eléctricos (Vol. 3ra Edición). The McGraw-Hill Companies Inc.
+-	Además, pudimos mejorar nuestro conocimiento de las formas gráficas y las formas matemáticas, además del manejo del osciloscopio en los diferentes simuladores, y con esto obtenemos un buen acercamiento a la realidad
 
-Boylestad R. L. Introducción al análisis de circuitos. 10ma ed. Pearson Educación,2004.
-
-Recuperado: de http://www.uco.es/electrotecnia-etsiam/pdf/TR-Tema-04.pdf
-
+# 10Bibliografia
 
 # 11Anexos
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/155222356_3686346024795233_5134870777610060376_o.jpg?_nc_cat=111&ccb=3&_nc_sid=730e14&_nc_eui2=AeF9mE_ueE6Heb2iZRo3YXuvM5LOwyqbjWozks7DKpuNas-DEKQBpk2wK7tgwRznaur3O8oWgJz_1CxZy62iKuxm&_nc_ohc=33jTGiHblzUAX-oLccE&_nc_ht=scontent.fuio16-1.fna&oh=96724a0c8a6457ad938ef1c8cb210fb4&oe=6063D6CA)
